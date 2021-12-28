@@ -1,0 +1,2 @@
+# Marketing-Customer-Segmentation
+Menyiapkan library dan data yang akan digunakan, melakukan eksplorasi data numerik dan kategorikal menggunakan boxplot, distplot dan juga countplot, melakukan pemrosesan awal data dengan merubah kolom text menjadi numerik dan melakukan standardisasi kolom numerik, membuat dan mengoptimalkan model menggunakan algoritma k-prototype, menggunakan model untuk memprediksi data-data baru.
